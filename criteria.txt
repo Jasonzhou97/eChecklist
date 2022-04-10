@@ -1,0 +1,3 @@
+A1-Is the maintenance record updated?
+A2-Is the store item accounted for?
+A3-Is the equipment still serviceable?
